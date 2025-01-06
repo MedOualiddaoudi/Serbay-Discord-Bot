@@ -1,0 +1,8 @@
+# Ignore FFmpeg binaries
+ffmpeg-master-latest-linux64-gpl-shared/
+
+# Ignore Python cache and virtual environment files
+__pycache__/
+*.pyc
+*.pyo
+.venv/
